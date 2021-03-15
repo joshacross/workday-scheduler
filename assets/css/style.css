@@ -30,7 +30,7 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
+.list-group {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
@@ -59,6 +59,7 @@ textarea{
 
 .saveBtn {
   border-left: 1px solid black;
+  text-align: center;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
