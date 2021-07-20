@@ -26,5 +26,5 @@ https://joshacross.github.io/workday-scheduler
 
 
 ## Photos
-<img src="assets/workday-scheduler.png">
+<img src="assets/workday-scheduler.png" alt="application workday scheduler with various timeblocks from 8am to 6pm showing the apps utility">
 
